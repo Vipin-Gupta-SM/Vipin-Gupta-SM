@@ -1,6 +1,6 @@
 <h2> Hi, I'm Vipin Gupta! </h2>
 <img align='right' src="https://media0.giphy.com/media/SHjOSDkKZ18qOHA5B5/200.webp?cid=ecf05e47r179diwhu686ympkre2irzjpliwpapy4gprpprse&rid=200.webp&ct=s" width="230">
-<p><em>Founder at <a href="https://smdigitaltechnologies.com/">SM Digital Technologies</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" heigth="20"></br>Flutter | Full Stack Developer & Tech Lead at <a href="https://accordify.co.in/">Accordify Websol Pvt. ltd.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Founder at <a href="https://smdigitaltechnologies.com/">SM Digital Technologies</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" heigth="20"></br>  
 </em></p>
 
 
